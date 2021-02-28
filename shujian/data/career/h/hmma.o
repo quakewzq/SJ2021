@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["hmma1528807524s":(["material_prop":(["armor":2,]),"material_props":(["0":"status_type2spe_name[0;32mÀö¾§jade_showÀö¾§ÖÊµØitem_showÎŞ×î´óÄÚÁ¦ÒªÇóis_prop0is_sure1add_typewear_maxneiliadd_use5add_num0.000000can_wield just_for sta_over ",]),"material_for":"armor","value":65318,"weight":2500,"gift_target":"hmma","level":1,"name":"[0;32mÀö¾§[1;37mñ­Óñ[0;0m","material_level":1,"material_status":1,"id":({"ban yu","jade","yu",}),"file":"/d/zhiye/obj/othermaterial","long":"ÓĞÏ¸Î¢°ßµã£¬³ö²úÔÚ»ªÄÏÎÂÈªµÄĞ¡¿éËéÓñ¡£","unit":"¿é",]),])
+show_list (["hmma":([1:(["save_id":"hmma1528807524s","value":65318,"name":"[0;32mÀö¾§[1;37mñ­Óñ[0;0m","id":"ban yu",]),]),])

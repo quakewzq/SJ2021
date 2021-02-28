@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["tweb1529109843s":(["wheredig":"/d/chengdu/eroad1","name":"[1;37m½õºÐ[0;0m","cwheredig":"³É¶¼³Ç´óµÀ","id":({"jin he","he","jinhe",}),"cloned":1,"file":"/clone/gift/money","weight":1000,"gift_target":"tweb",]),])
+show_list (["tweb":([1:(["save_id":"tweb1529109843s","value":0,"name":"[1;37m½õºÐ[0;0m","id":"jin he",]),]),])

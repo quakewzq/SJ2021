@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["bcg1529197614s":(["wheredig":"/d/quanzhen/huizhentang","name":"[1;37m½õºÐ[0;0m","cwheredig":"È«Õæ½Ì»áÕæÌÃ","id":({"jin he","he","jinhe",}),"cloned":1,"file":"/clone/gift/money","weight":1000,"gift_target":"bcg",]),])
+show_list (["bcg":([1:(["save_id":"bcg1529197614s","value":0,"name":"[1;37m½õºÐ[0;0m","id":"jin he",]),]),])

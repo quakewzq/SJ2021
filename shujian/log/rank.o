@@ -1,0 +1,6 @@
+#/cmds/usr/top.c
+score_ranks ({(["family":"桃花岛","exp":25689737,"name":"西北风","time":1555215170,"id":"day","score":29174,"eoh":16703,]),(["family":"古墓派","name":"本段","exp":23143895,"time":1555211831,"id":"hamab","eoh":16005,"score":0,]),})
+beauty_ranks ({(["family":"古墓派","name":"千色","time":1534112979,"id":"thebring","score":1201,]),(["family":"明教","name":"尧情","time":1534112979,"id":"mjdm","score":855,]),(["family":"普通百姓","name":"欧阳嫣然","time":1534112979,"id":"bbh","score":854,]),(["family":"华山派","name":"风轻扬","time":1534112979,"id":"hsjaika","score":851,]),(["family":"古墓派","name":"乃可一号","time":1534109676,"id":"gmid","score":657,]),(["family":"铁掌帮","name":"上官舜情","time":1534109478,"id":"tzdm","score":539,]),})
+pk_ranks ({(["family":"峨嵋派","name":"乾至若","time":1534452210,"id":"emdm","score":377,]),})
+rich_ranks ({(["family":"桃花岛","name":"西北风","time":1555215170,"id":"day","score":794495,]),(["family":"古墓派","name":"本段","time":1555211831,"id":"hamab","score":0,]),})
+worker_ranks ({})

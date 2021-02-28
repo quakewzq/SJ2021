@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["bci1529197584s":(["wheredig":"/d/tiezhang/shanlu-2","name":"[1;37m½õºÐ[0;0m","cwheredig":"ÌúÕÆÉ½É½Â·","id":({"jin he","he","jinhe",}),"cloned":1,"file":"/clone/gift/money","weight":1000,"gift_target":"bci",]),])
+show_list (["bci":([1:(["save_id":"bci1529197584s","value":0,"name":"[1;37m½õºÐ[0;0m","id":"jin he",]),]),])

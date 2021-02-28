@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["ach1529197104s":(["wheredig":"/d/menggu/yinzhang","name":"[1;37m½õºĞ[0;0m","cwheredig":"ÃÉ¹ÅÌúÄ¾ÕæÓªÕÊ","id":({"jin he","he","jinhe",}),"cloned":1,"file":"/clone/gift/money","weight":1000,"gift_target":"ach",]),])
+show_list (["ach":([1:(["save_id":"ach1529197104s","value":0,"name":"[1;37m½õºĞ[0;0m","id":"jin he",]),]),])

@@ -1,0 +1,69 @@
+Tue Nov 21 13:16:26 2017 �齣���¼�Ԫ crashed on: Tue Nov 21 13:16:26 2017, error: SIGINT: Process interrupted
+Tue Nov 21 13:16:38 2017 �齣���¼�Ԫ crashed on: Tue Nov 21 13:16:38 2017, error: SIGINT: Process interrupted
+Tue Nov 21 13:23:11 2017 �齣���¼�Ԫ crashed on: Tue Nov 21 13:23:11 2017, error: SIGINT: Process interrupted
+Tue Nov 21 13:50:06 2017 �齣���¼�Ԫ crashed on: Tue Nov 21 13:50:06 2017, error: SIGINT: Process interrupted
+Tue Nov 21 14:01:52 2017 �齣���¼�Ԫ crashed on: Tue Nov 21 14:01:52 2017, error: SIGINT: Process interrupted
+Tue Nov 21 14:04:49 2017 �齣���¼�Ԫ crashed on: Tue Nov 21 14:04:49 2017, error: SIGINT: Process interrupted
+Tue Nov 21 14:04:56 2017 �齣���¼�Ԫ crashed on: Tue Nov 21 14:04:56 2017, error: SIGINT: Process interrupted
+Tue Nov 21 14:39:06 2017 书剑·新纪元 crashed on: Tue Nov 21 14:39:06 2017, error: SIGINT: Process interrupted
+Tue Nov 21 14:53:16 2017 书剑·新纪元 crashed on: Tue Nov 21 14:53:16 2017, error: SIGINT: Process interrupted
+Tue Nov 21 14:57:38 2017 书剑·新纪元 crashed on: Tue Nov 21 14:57:38 2017, error: SIGINT: Process interrupted
+Tue Nov 21 14:59:04 2017 书剑·新纪元 crashed on: Tue Nov 21 14:59:04 2017, error: SIGINT: Process interrupted
+Tue Nov 21 15:19:59 2017 书剑·新纪元 crashed on: Tue Nov 21 15:19:59 2017, error: SIGINT: Process interrupted
+Tue Nov 21 15:33:56 2017 书剑·新纪元 crashed on: Tue Nov 21 15:33:56 2017, error: SIGINT: Process interrupted
+Tue Nov 21 15:41:49 2017 书剑·新纪元 crashed on: Tue Nov 21 15:41:49 2017, error: SIGINT: Process interrupted
+Tue Nov 21 15:53:25 2017 书剑·新纪元 crashed on: Tue Nov 21 15:53:25 2017, error: SIGINT: Process interrupted
+Tue Nov 21 16:13:58 2017 书剑·新纪元 crashed on: Tue Nov 21 16:13:58 2017, error: SIGINT: Process interrupted
+Tue Nov 21 16:27:04 2017 书剑·新纪元 crashed on: Tue Nov 21 16:27:04 2017, error: SIGINT: Process interrupted
+Wed Nov 22 10:31:27 2017 书剑·新纪元 crashed on: Wed Nov 22 10:31:27 2017, error: SIGINT: Process interrupted
+Wed Nov 22 10:36:54 2017 书剑·新纪元 crashed on: Wed Nov 22 10:36:54 2017, error: SIGINT: Process interrupted
+Wed Nov 22 10:40:21 2017 书剑·新纪元 crashed on: Wed Nov 22 10:40:21 2017, error: SIGINT: Process interrupted
+Wed Nov 22 11:03:52 2017 书剑·新纪元 crashed on: Wed Nov 22 11:03:52 2017, error: SIGINT: Process interrupted
+Wed Nov 22 11:51:15 2017 书剑·新纪元 crashed on: Wed Nov 22 11:51:15 2017, error: SIGINT: Process interrupted
+Wed Nov 22 11:59:31 2017 书剑·新纪元 crashed on: Wed Nov 22 11:59:31 2017, error: SIGINT: Process interrupted
+Wed Nov 22 12:00:15 2017 书剑·新纪元 crashed on: Wed Nov 22 12:00:15 2017, error: SIGINT: Process interrupted
+Wed Nov 22 12:36:53 2017 书剑·新纪元 crashed on: Wed Nov 22 12:36:53 2017, error: SIGINT: Process interrupted
+Thu Nov 23 16:12:39 2017 书剑·新纪元 crashed on: Thu Nov 23 16:12:39 2017, error: SIGINT: Process interrupted
+Fri Nov 24 11:06:55 2017 书剑·新纪元 crashed on: Fri Nov 24 11:06:55 2017, error: SIGINT: Process interrupted
+Fri Nov 24 11:07:25 2017 书剑·新纪元 crashed on: Fri Nov 24 11:07:25 2017, error: SIGINT: Process interrupted
+Fri Nov 24 11:07:25 2017 this_player: /clone/user/user#2 ("��Ѷ�Ƽ�(Dlink)") dlink
+Fri Nov 24 11:07:25 2017 this_object: /clone/user/user#2 ("��Ѷ�Ƽ�(Dlink)")
+Fri Nov 24 11:10:59 2017 书剑·新纪元 crashed on: Fri Nov 24 11:10:59 2017, error: SIGINT: Process interrupted
+Fri Nov 24 11:15:25 2017 书剑 crashed on: Fri Nov 24 11:15:25 2017, error: SIGINT: Process interrupted
+Sun Dec 24 10:52:04 2017 �齣 crashed on: Sun Dec 24 10:52:04 2017, error: SIGINT: Process interrupted
+Sun Dec 24 10:52:12 2017 �齣 crashed on: Sun Dec 24 10:52:12 2017, error: SIGINT: Process interrupted
+Sun Dec 24 14:19:56 2017 �齣 crashed on: Sun Dec 24 14:19:56 2017, error: SIGINT: Process interrupted
+Fri Jan 26 15:03:22 2018 �齣 crashed on: Fri Jan 26 15:03:22 2018, error: SIGTERM: Process terminated
+Fri Jan 26 20:57:31 2018 �齣 crashed on: Fri Jan 26 20:57:31 2018, error: SIGINT: Process interrupted
+Tue Apr  3 20:23:09 2018 �齣 crashed on: Tue Apr  3 20:23:09 2018, error: SIGTERM: Process terminated
+Thu Apr  5 11:00:26 2018 �齣 crashed on: Thu Apr  5 11:00:26 2018, error: SIGSEGV: Segmentation fault
+Thu Apr  5 11:00:26 2018 this_player: /clone/user/login#35465 ("0(Longa)") MudOS
+Thu Apr  5 11:00:26 2018 this_object: /adm/daemons/logind ("0(0)")
+Sun Apr  8 10:37:01 2018 �齣 crashed on: Sun Apr  8 10:37:01 2018, error: SIGINT: Process interrupted
+Sun Apr  8 10:37:01 2018 this_player: /clone/user/user#1 ("�����(Ppab)") ppab
+Sun Apr  8 10:37:01 2018 this_object: /adm/daemons/race/human ("0(0)")
+Sun Apr  8 10:50:41 2018 �齣 crashed on: Sun Apr  8 10:50:41 2018, error: SIGINT: Process interrupted
+Tue Apr 10 18:45:17 2018 �齣 crashed on: Tue Apr 10 18:45:17 2018, error: SIGINT: Process interrupted
+Fri Apr 13 08:32:19 2018 �齣 crashed on: Fri Apr 13 08:32:19 2018, error: SIGINT: Process interrupted
+Fri Apr 13 08:37:49 2018 �齣 crashed on: Fri Apr 13 08:37:49 2018, error: SIGINT: Process interrupted
+Sat Apr 14 17:48:49 2018 �齣 crashed on: Sat Apr 14 17:48:49 2018, error: SIGINT: Process interrupted
+Sat Apr 14 17:48:49 2018 this_player: /clone/user/user#2974 ("Ľ������(Hongba)") hongba
+Sat Apr 14 17:48:49 2018 this_object: /feature/name
+Sat Apr 14 21:58:18 2018 �齣 crashed on: Sat Apr 14 21:58:18 2018, error: SIGINT: Process interrupted
+Sat Apr 14 22:24:25 2018 �齣 crashed on: Sat Apr 14 22:24:25 2018, error: SIGINT: Process interrupted
+Sat Apr 14 22:25:56 2018 �齣 crashed on: Sat Apr 14 22:25:56 2018, error: SIGINT: Process interrupted
+Wed Apr 25 13:35:03 2018 �齣 crashed on: Wed Apr 25 13:35:03 2018, error: SIGINT: Process interrupted
+Wed Apr 25 13:35:03 2018 this_player: /clone/user/user#21 ("����(Playtls)") playtls
+Wed Apr 25 13:35:03 2018 this_object: /cmds/std/go ("0(0)")
+Wed Apr 25 13:36:46 2018 �齣 crashed on: Wed Apr 25 13:36:46 2018, error: SIGINT: Process interrupted
+Mon Jun 18 01:00:32 2018 �齣 crashed on: Mon Jun 18 01:00:32 2018, error: SIGABRT: Aborted
+Mon Jun 18 01:00:32 2018 this_player: /clone/user/user#1006143 ("Ľ������(Mrqingwa)") mrqingwa
+Mon Jun 18 01:00:32 2018 this_object: /cmds/std/look ("0(0)")
+Sat Jul  7 16:41:03 2018 �齣 crashed on: Sat Jul  7 16:41:03 2018, error: SIGSEGV: Segmentation fault
+Sat Jul  7 16:41:03 2018 this_object: /adm/daemons/network/dns_master ("0(0)")
+Fri Jul 13 01:56:27 2018 �齣 crashed on: Fri Jul 13 01:56:27 2018, error: SIGSEGV: Segmentation fault
+Wed Jul 18 20:45:24 2018 �齣 crashed on: Wed Jul 18 20:45:24 2018, error: SIGSEGV: Segmentation fault
+Thu Jul 26 09:19:32 2018 �齣 crashed on: Thu Jul 26 09:19:32 2018, error: SIGSEGV: Segmentation fault
+Fri Aug  3 14:10:16 2018 �齣 crashed on: Fri Aug  3 14:10:16 2018, error: SIGINT: Process interrupted
+Fri Aug 17 10:34:33 2018 �齣 crashed on: Fri Aug 17 10:34:33 2018, error: SIGINT: Process interrupted
+Fri Aug 17 10:34:33 2018 this_object: /adm/daemons/bbsd ("0(0)")

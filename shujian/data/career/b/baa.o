@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["baa1529197721s":(["wheredig":"/d/changle/zoulang4","name":"[1;37m½õºÐ[0;0m","cwheredig":"³¤ÀÖ°ï[0;32m×ßÀÈ[0;0m","id":({"jin he","he","jinhe",}),"cloned":1,"file":"/clone/gift/money","weight":1000,"gift_target":"baa",]),])
+show_list (["baa":([1:(["save_id":"baa1529197721s","value":0,"name":"[1;37m½õºÐ[0;0m","id":"jin he",]),]),])

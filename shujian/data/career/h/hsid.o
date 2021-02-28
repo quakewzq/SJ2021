@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["hsid1530204316s":(["startroom":"/d/baituo/tianjing","name":"Éß¾­","id":({"she jing","jing",}),"lastroom":"/clone/user/user","save_temp_data":(["unconcious":,]),"weight":1000,"file":"/d/baituo/obj/book4",]),])
+show_list (["hsid":([1:(["save_id":"hsid1530204316s","value":10000,"name":"Éß¾­","id":"she jing",]),]),])

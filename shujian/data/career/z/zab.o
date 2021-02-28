@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["zab1529580727s":(["name":"[1;33mÎ¤À¼Ö®´¸[0;0m","id":({"weilan's hammer","chui",}),"file":"/clone/gift/imbue","weight":6000,"gift_target":"zab",]),])
+show_list (["zab":([1:(["save_id":"zab1529580727s","value":0,"name":"[1;33mÎ¤À¼Ö®´¸[0;0m","id":"weilan's hammer",]),]),])

@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["exeogmz1531813013s":(["name":"[0;33mÍ­Ô¿³×[0;0m","id":({"tong yaoshi","key","yaoshi",}),"file":"/d/city/npc/obj/tyaoshi","weight":200,]),])
+show_list (["exeogmz":([1:(["save_id":"exeogmz1531813013s","value":200,"name":"[0;33mÍ­Ô¿³×[0;0m","id":"tong yaoshi",]),]),])

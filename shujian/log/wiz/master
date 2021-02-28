@@ -1,0 +1,152 @@
+Apr 16 16:11:11 score
+Apr 16 16:11:23 who
+Apr 16 16:11:58 log
+Apr 16 16:12:05 set exp
+Apr 16 16:12:12 unset exp
+Apr 16 16:12:13 look
+Apr 16 16:12:18 look dowm
+Apr 16 16:12:22 look down
+Apr 16 16:13:53 score
+Apr 16 16:14:41 goto nona
+Apr 16 16:14:50 copyskiis
+Apr 16 16:14:52 copyskii
+Apr 16 16:15:01 copyskii nona
+Apr 16 16:15:37 copyskill
+Apr 16 16:15:40 copyskill nona
+Apr 16 16:15:45 skills
+Apr 16 16:15:46 score
+Apr 16 16:15:53 fusklls
+Apr 16 16:15:55 fuskll
+Apr 16 16:16:00 hp
+Apr 16 16:17:39 setskill all
+Apr 16 16:17:49 setskill master all
+Apr 16 16:17:57 setskill master all 500
+Apr 16 16:18:01 skills
+Apr 16 16:18:03 hp
+Apr 16 16:20:57 call master->set("combat_exp", 1000000000)
+Apr 16 16:21:00 hp
+Apr 16 16:21:15 inventory
+Apr 16 16:21:17 look
+Apr 16 16:21:19 go down
+Apr 16 16:21:20 go south
+Apr 16 16:21:22 go west
+Apr 16 16:21:23 go west
+Apr 16 16:21:24 go west
+Apr 16 16:21:27 kill qi gai
+Apr 16 16:21:32 set
+Apr 16 16:21:37 unset wimpy
+Apr 16 16:21:38 go east
+Apr 16 16:21:41 go east
+Apr 16 16:21:41 go east
+Apr 16 16:21:42 go west
+Apr 16 16:21:43 go south
+Apr 16 16:21:43 go south
+Apr 16 16:21:43 go east
+Apr 16 16:21:47 goto nona
+Apr 16 16:22:17 go down
+Apr 16 16:22:18 go south
+Apr 16 16:22:18 go south
+Apr 16 16:22:19 go east
+Apr 16 16:22:19 go east
+Apr 16 16:22:19 go east
+Apr 16 16:22:21 go north
+Apr 16 16:22:21 go east
+Apr 16 16:22:21 go south
+Apr 16 16:22:23 go north
+Apr 16 16:22:23 go east
+Apr 16 16:22:24 go south
+Apr 16 16:22:26 niu changjian
+Apr 16 16:22:30 buy changjian
+Apr 16 16:22:30 go north
+Apr 16 16:22:33 wield changjian
+Apr 16 16:22:34 go west
+Apr 16 16:22:34 go west
+Apr 16 16:22:35 go west
+Apr 16 16:22:35 go west
+Apr 16 16:22:36 go west
+Apr 16 16:22:42 enable
+Apr 16 16:22:44 go east
+Apr 16 16:22:44 go east
+Apr 16 16:24:20 call master->set("quest/pass/dugu-jiujian/wuzhao", 1)
+Apr 16 16:24:28 enable sword dugu-jiujian
+Apr 16 16:24:29 look
+Apr 16 16:24:30 go west
+Apr 16 16:24:31 go south
+Apr 16 16:24:31 go south
+Apr 16 16:24:32 go north
+Apr 16 16:24:32 go west
+Apr 16 16:24:32 go south
+Apr 16 16:24:33 go east
+Apr 16 16:24:33 go east
+Apr 16 16:24:37 follow seng
+Apr 16 16:24:39 kill seng
+Apr 16 16:24:50 kill seng
+Apr 16 16:26:33 kill seng
+Apr 16 16:26:34 look
+Apr 16 16:26:35 go east
+Apr 16 16:26:44 call master->set("quest/pass/dugu-jiujian/wuzhao", 1)
+Apr 16 16:26:50 call master->set("quest/pass/dugu-jiujian/wuzhao")
+Apr 16 16:26:58 call master->set("quest/pass/dugu-jiujian/wuzhao", 1)
+Apr 16 16:27:34 kill seng
+Apr 16 16:28:17 call master->set("quest/pass/dugu-jiujian/wuzhao", 1)
+Apr 16 16:28:19 kill seng
+Apr 16 16:28:54 goto dongfang buai
+Apr 16 16:28:58 goto dongfang
+Apr 16 16:29:07 goto feng qingyang
+Apr 16 16:29:10 kill feng
+Apr 16 16:29:56 call nona->set("quest/pass/dugu-jiujian/wuzhao", 1)
+Apr 16 16:30:06 call nona->set("quest/pass/dugu-jiujian/wuzhao", 1) 1
+Apr 16 16:30:16 call nona->set("quest/pass/dugu-jiujian/wuzhao", 1) because d
+Apr 16 16:30:43 suicide -f
+Apr 16 16:30:50 quit
+Apr 16 20:02:50 go west
+Apr 16 20:02:50 look
+Apr 16 20:02:57 call ID->set("combat_exp", 4500000)
+Apr 16 20:03:04 call nona->set("combat_exp", 4500000)
+Apr 16 20:03:11 call nona->set("combat_exp", 4500000) because sd
+Apr 16 20:03:48 call nona->set_skills("dugu-jiujian",351)
+Apr 16 20:03:54 call nona->set_skills("dugu-jiujian",351) because d
+Apr 16 20:04:00 call nona->set_skills("sword",351) because d
+Apr 16 20:04:14 quit
+Apr 16 20:07:26 xixi
+Apr 16 20:07:45 summon nona
+Apr 16 20:07:47 look
+Apr 16 20:08:28 xixi
+Apr 16 20:09:30 xixi
+Apr 16 20:10:04 call nona->set("title", HIW"华山派风清扬传人"NOR)
+Apr 16 20:10:11 call nona->set("title", HIW"华山派风清扬传人"NOR) because
+Apr 16 20:10:21 call nona->set("title", HIW"华山派风清扬传人"NOR) because sd
+Apr 16 20:10:23 look
+Apr 16 20:10:32 xixi
+Apr 16 20:11:27 call nona->set("title", HIW"华山派风清扬传人"NOR,1) because sd
+Apr 16 20:11:30 look
+Apr 16 20:11:34 xixi
+Apr 16 20:12:36 xixi
+Apr 16 20:12:36 call nona->set("title", HIW"华山派风清扬传人"NOR) because sd
+Apr 16 20:13:37 xixi
+Apr 16 20:13:57 call nona->set("title", $HIW"华山派风清扬传人"$NOR) because sd
+Apr 16 20:14:39 xixi
+Apr 16 20:15:41 xixi
+Apr 16 20:16:43 xixi
+Apr 16 20:16:44 call nona->set("title") because sd
+Apr 16 20:16:52 call nona->set("title",) because sd
+Apr 16 20:16:57 call nona->set("title", ) because sd
+Apr 16 20:17:45 xixi
+Apr 16 20:18:44 call nona->set("title",内阁首府) because sd
+Apr 16 20:18:47 xixi
+Apr 16 20:19:48 xixi
+Apr 16 20:20:30 summon tuobo seng
+Apr 16 20:20:50 xixi
+Apr 16 20:20:55 summon nona
+Apr 16 20:21:20 call nona->set_skills("sword",300)
+Apr 16 20:21:27 call nona->set_skills("sword",300) because h
+Apr 16 20:21:52 xixi
+Apr 16 20:21:57 call nona->set_skills("dugu-jiujian",300) because h
+Apr 16 20:22:42 setskill
+Apr 16 20:22:54 xixi
+Apr 16 20:23:13 setskill nona all 351 because d
+Apr 16 20:23:56 xixi
+Apr 16 20:24:58 xixi
+Apr 16 20:26:00 xixi
+Apr 16 20:26:22 quit
+Apr 17 08:34:25 call bug->setskill all 341

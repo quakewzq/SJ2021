@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["bbf1529197872s":(["wheredig":"/d/mr/yanziwu/zishu","name":"[1;37m½õºÐ[0;0m","cwheredig":"Ñà×ÓÎëË½ÛÓ","id":({"jin he","he","jinhe",}),"cloned":1,"file":"/clone/gift/money","weight":1000,"gift_target":"bbf",]),])
+show_list (["bbf":([1:(["save_id":"bbf1529197872s","value":0,"name":"[1;37m½õºÐ[0;0m","id":"jin he",]),]),])

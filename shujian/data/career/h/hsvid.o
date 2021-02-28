@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["hsvid1528801736s":(["value":3000000,"no_drop":1,"weight":100,"no_give":1,"credit":10,"flag":"spec/youtan","name":"[1;37mÓÄê¼Ææ»¨[0;0m","no_get":1,"degree":1,"desc":"Ôö¼ÓÒ»µãÈİÃ²¡£","id":({"youtan","flower",}),"file":"/clone/spec/youtan","long":"ÕâÊÇÒ»¶äÉú³¤ÔÚÇ§Äê±ù´¨ÀïµÄ[1;37mÓÄê¼Ææ»¨[0;0m£¬¾İËµ¶ÔËüÄÜÈÃÈËÇà´ºÓÀ×¤?Äã¿ÉÒÔ·şÓÃ£¨[1;33mfu[0;0m£©ËüÀ´Ìá¸ßÈİÃ²£","unit":"¶ä",]),])
+show_list (["hsvid":([1:(["save_id":"hsvid1528801736s","value":3000000,"name":"[1;37mÓÄê¼Ææ»¨[0;0m","id":"youtan",]),]),])

@@ -1,0 +1,3 @@
+#/adm/daemons/miscd.c
+save_list (["juhua1528796728s":(["name":"[0;33mÍ­Ô¿³×[0;0m","id":({"tong yaoshi","key","yaoshi",}),"file":"/d/city/npc/obj/tyaoshi","weight":200,]),"juhua1528795825s":(["name":"[0;33mÍ­Ô¿³×[0;0m","id":({"tong yaoshi","key","yaoshi",}),"weight":200,"file":"/d/city/npc/obj/tyaoshi",]),])
+show_list (["juhua":([2:(["save_id":"juhua1528796728s","value":200,"name":"[0;33mÍ­Ô¿³×[0;0m","id":"tong yaoshi",]),1:(["save_id":"juhua1528795825s","name":"[0;33mÍ­Ô¿³×[0;0m","value":200,"id":"tong yaoshi",]),]),])
